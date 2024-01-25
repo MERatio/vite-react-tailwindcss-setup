@@ -1,0 +1,4 @@
+// Official vite react template (I added prettier, tailwindcss)
+npm i react react-dom
+
+npm i -D @types/react @types/react-dom @vitejs/plugin-react eslint eslint-config-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-react-refresh prettier vite tailwindcss postcss autoprefixer prettier-plugin-tailwindcss
